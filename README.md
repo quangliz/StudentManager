@@ -1,2 +1,2 @@
 # StudentManager
-personal project/ simple code
+homework/ simple code
